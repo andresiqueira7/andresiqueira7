@@ -39,7 +39,7 @@
 <!-- Languages I use the most -->
 <h3>
   <img height="20" alt="GIF" src="https://github.com/PkLavc/PkLavc/blob/c0007529d1c2f8a7b04fad9a91da960e9625ad6d/resources/Icons/Animated/skills.gif?raw=true"/>
-  &nbsp;Languagens que tenho interesse
+  &nbsp;Linguagens que tenho interesse
   <img height="20" src="https://github.com/PkLavc/PkLavc/blob/c0007529d1c2f8a7b04fad9a91da960e9625ad6d/resources/Icons/Animated/skills.gif?raw=true"/>
   &nbsp;
 </h3>
