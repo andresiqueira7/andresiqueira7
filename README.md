@@ -25,7 +25,8 @@
 ### FORMAÇÃO
 
 **Analise e Desenvolvimento de sistemas - UNIUBE** 2023 - 2026. <h4>
-**Técnico em Mecatrônica - SENAI-BETIM** <h4>
+**Técnico em Mecatrônica - SENAI-BETIM** - CRT ATIVO <h4>
+**Técnico em Mineração - Global Tech** - CRT ATIVO <h4>
 **Engenharia Mecânica - IFMG BETIM** - 2026 - Atual. <h4>
 **Sequêncial em Direitos Humanos** - 2024 - Mega Cursos.
 
