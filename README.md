@@ -1,4 +1,5 @@
-<img width="20" height="20" alt="GithubCatGIF" src="https://github.com/user-attachments/assets/b8a74499-8c7e-45a5-9870-551f0dde0b81" />
+ <img width="30" height="25" alt="MightyMachinesDumpTruckGIF" src="https://github.com/user-attachments/assets/cfec48a5-78c2-4d9b-a0b5-3dd0f761f2b8" />
+
   &nbsp;ANALISTA DE OPERAÇÕES NA EMPRESA R3 MINERACAO E CONSTRUCAO ⛏️⛏️
 </h4>
 
