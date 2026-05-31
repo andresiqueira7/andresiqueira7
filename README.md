@@ -12,7 +12,7 @@
   &nbsp;Languages & Communication
 </h4>
 
- **Inglês:** INTERMEDIÁRIO. <img width="30" height="20" alt="UnitedKingdomUkGIF"  src="https://github.com/user-attachments/assets/297106c4-befa-46a2-baec-82f904979abe" /> 
+ **Inglês:** INTERMEDIÁRIO. <img ![Uploading UnitedKingdomUkGIF.gif…]()  src="https://github.com/user-attachments/assets/297106c4-befa-46a2-baec-82f904979abe" /> 
 
 
 
