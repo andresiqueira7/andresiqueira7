@@ -46,10 +46,8 @@
 
 <div style="display: inline-block; gap: 10px; margin-top: 10px;">
    <img align="center" alt="Python" height="35" src="https://github.com/PkLavc/PkLavc/blob/c903152892186bdd5f3214ab48503865982cd337/resources/Icons/Animated/Python.svg" class="contactpic">
-  <img align="center" alt="AWS" height="35" src="https://raw.githubusercontent.com/PkLavc/PkLavc/fad9455729c13ae490bad3cda42059019add319f/resources/Icons/Animated/AWS.svg" class="contactpic">
   <img align="center" alt="REST APIs" height="35" src="https://raw.githubusercontent.com/PkLavc/PkLavc/fad9455729c13ae490bad3cda42059019add319f/resources/Icons/Animated/APIs%20RESTful.svg" class="contactpic">
   <img align="center" alt="JavaScript" height="35" src="https://raw.githubusercontent.com/PkLavc/PkLavc/fad9455729c13ae490bad3cda42059019add319f/resources/Icons/Animated/Javascript.svg" class="contactpic">
-  <img align="center" alt="Docker" height="35" src="https://raw.githubusercontent.com/PkLavc/PkLavc/fad9455729c13ae490bad3cda42059019add319f/resources/Icons/Animated/Docker.svg" class="contactpic">
   <img align="center" alt="PostgreSQL" height="35" src="https://raw.githubusercontent.com/PkLavc/PkLavc/fad9455729c13ae490bad3cda42059019add319f/resources/Icons/Static/postgresql-original.svg" class="contactpic">
 </div>
 
@@ -57,7 +55,6 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
@@ -73,7 +70,6 @@
 
 <div style="display: inline-block; gap: 10px; margin-top: 10px;">
  <img align="center" alt="MySQL" height="35" src="https://github.com/PkLavc/PkLavc/blob/3858f09437015d128efd371e67f6cb31961e1492/resources/Icons/Animated/MySQL.svg" class="contactpic">
- 
   <img align="center" alt="C++" height="35" src="https://github.com/PkLavc/PkLavc/blob/c903152892186bdd5f3214ab48503865982cd337/resources/Icons/Animated/C%2B%2B.svg" class="contactpic">
 
 </div>
