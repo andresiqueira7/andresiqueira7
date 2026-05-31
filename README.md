@@ -12,7 +12,7 @@
   &nbsp;Languages & Communication
 </h4>
 
-- **Inglês:** INTERMEDIÁRIO. 
+ **Inglês:** INTERMEDIÁRIO. :uk: :us: :en:
 
 </details>
 
