@@ -12,7 +12,8 @@
   &nbsp;Languages & Communication
 </h4>
 
- **Inglês:** INTERMEDIÁRIO. <img width="25" height="20" alt="UnitedKingdomUkGIF" src="https://github.com/user-attachments/assets/b5fc5807-88fe-43a2-8f0d-d769de7db611" />
+ **Inglês:** INTERMEDIÁRIO. <img width="30" height="20" alt="UnitedKingdomUkGIF" src="https://github.com/user-attachments/assets/b5fc5807-88fe-43a2-8f0d-d769de7db611" /> <img width="30" height="20" alt="UsaFlagAmericanGIF" src="https://github.com/user-attachments/assets/297106c4-befa-46a2-baec-82f904979abe" />
+
 
 
 </details>
