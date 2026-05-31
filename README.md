@@ -1,4 +1,4 @@
-
+<img width="498" height="498" alt="GithubCatGIF" src="https://github.com/user-attachments/assets/b8a74499-8c7e-45a5-9870-551f0dde0b81" />
   &nbsp;ANALISTA DE OPERAÇÕES NA EMPRESA R3 MINERACAO E CONSTRUCAO ⛏️⛏️
 </h4>
 
@@ -12,7 +12,8 @@
   &nbsp;Languages & Communication
 </h4>
 
- **Inglês:** INTERMEDIÁRIO. :uk: :us: :en:
+ **Inglês:** INTERMEDIÁRIO. <img width="498" height="249" alt="UnitedKingdomUkGIF" src="https://github.com/user-attachments/assets/b5fc5807-88fe-43a2-8f0d-d769de7db611" />
+
 
 </details>
 
