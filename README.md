@@ -7,7 +7,7 @@
   <img src="https://github.com/PkLavc/PkLavc/blob/7558ebc0a516b0a492aa486abbe534863e8fc3f3/resources/Icons/Animated/data.gif?raw=true" width="22" height="22" valign="middle">
   &nbsp;ANALISTA DE DADOS. 
 </h4>
- -Metodologia: Melhoria Contínua.
+ Metodologia: Melhoria Contínua.
 <h4>
   <img src="https://github.com/PkLavc/PkLavc.github.io/blob/3d9545fa32ed5e4659c2961febbab6aba70c9441/images/Globe.gif?raw=true" width="22" height="22" valign="middle">
   &nbsp;Languages & Communication
